@@ -30,7 +30,7 @@ Scoring & Rating
     At the end of each day, you can see the average rating and individual patient ratings.
     If your clinic drops below 3 stars by the end of day 3, it will close permanently.
 
-Project Structure 
+File Structure 
 
     doctor_on_call_simulator/
     │
