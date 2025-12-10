@@ -32,14 +32,14 @@ Scoring & Rating
 
 Project Structure 
 
-doctor_on_call_simulator/
-│
-├─ main.py              # Game entry point
-├─ game.py              # Main game logic
-├─ patients.py          # Patient classes, conditions, and personalities
-├─ medications.py       # Medication list and mapping to conditions
-├─ memory.py            # Save/load memory and ratings
-└─ README.md            # Project documentation
+    doctor_on_call_simulator/
+    │
+    ├─ main.py              # Game entry point
+    ├─ game.py              # Main game logic
+    ├─ patients.py          # Patient classes, conditions, and personalities
+    ├─ medications.py       # Medication list and mapping to conditions
+    ├─ memory.py            # Save/load memory and ratings
+    └─ README.md            # Project documentation
 
 Credits
 
