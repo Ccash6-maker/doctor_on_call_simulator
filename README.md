@@ -49,7 +49,7 @@ Credits
 Installation 
 
     pygame – for graphics, UI, and event handling.
-    NOTE- pygame does not function with the most recent python (3.14), as of 12/10/25.
+    NOTE- pygame does not function with the most recent python -3.14, as of 12/10/25.
         Must use 3.11 or 3.12 for pygame to runproperly 
         
 Install by using - pip install pygame
