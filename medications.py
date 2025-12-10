@@ -1,3 +1,6 @@
+"""
+Make list of all medications
+"""
 ALL_MEDICATIONS = [
     "Tylenol",
     "Antibiotics",
@@ -12,7 +15,9 @@ ALL_MEDICATIONS = [
     "Insulin Drip",
     "Anti-inflammatory"
 ]
-
+"""
+Make mapping of conditions to correct medications
+"""
 # Mapping conditions → list of correct medications
 CONDITION_TO_CORRECT_MED = {
     "Flu": ["Tamiflu"],
@@ -37,6 +42,7 @@ CONDITION_TO_CORRECT_MED = {
     "Anaphylactic Shock": ["Eipnephrine", "IV Fluids"],
     "Ketone Acidosis": ["Insulin Drip", "IV Fluids"],
 }
-
-# Define severe conditions so it can be imported in game.py
+"""
+Define severe conditions so it can be imported in game.py
+"""
 SEVERE_CONDITIONS = ["Heart Failure", "Sepsis", "Anaphylactic Shock", "Ketone Acidosis"]
