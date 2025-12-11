@@ -59,3 +59,10 @@ Install by using - pip install pygame
     random – part of Python’s standard library 
     os – part of Python’s standard library 
     json – part of Python’s standard library 
+
+Running the Game
+
+    In terminal
+        Run: python main.py
+    For Unit Test
+        Run: unit_test.py
